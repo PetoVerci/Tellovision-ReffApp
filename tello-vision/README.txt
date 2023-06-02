@@ -3,7 +3,7 @@ V tomto súbore nájdete časť práce venujúcej sa knižnici pre drona s poč�
 Dôležité informácie !!! 
   V našej knižnici využívame niektoré existujúce balíky software-u. Medzi ne patria :
       - Oficialny github knižnice djitellopy : https://github.com/damiafuentes/DJITelloPy
-      - Oficialny github knižnice OpenCV : https://opencv.org/ V celom projekte využívam verziu opencv-python 4.5.5.62
+      - Oficialna webstránka knižnice OpenCV : https://opencv.org/ V celom projekte využívam verziu opencv-python 4.5.5.62
       - Knižnica PyZbar : https://pypi.org/project/pyzbar/
       
       
