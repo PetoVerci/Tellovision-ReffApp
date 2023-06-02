@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="C:\Users\petov\AppData\Local\Google\AndroidStudio2021.3\device-explorer\Pixel_5_API_26 [emulator-5554]\storage\emulated\0\documents\robocup\DronRatings.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\petov\AppData\Local\Google\AndroidStudio2021.3\device-explorer\Pixel_5_API_26 [emulator-5554]\storage\emulated\0\documents\testImportTeams.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\petov\AppData\Local\Google\AndroidStudio2021.3\device-explorer\Pixel_5_API_28 [emulator-5554]\storage\emulated\0\Documents\robocup\RobocupRatings.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\petov\AppData\Local\Google\AndroidStudio2021.3\device-explorer\Pixel_5_API_30 [emulator-5554]\storage\emulated\0\Documents\robocup\DronRatings.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\petov\AppData\Local\Google\AndroidStudio2021.3\device-explorer\Pixel_5_API_30 [emulator-5554]\storage\emulated\0\Documents\robocup\RukaRatings.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\petov\AppData\Local\Google\AndroidStudio2021.3\device-explorer\Pixel_5_API_33_2 [emulator-5556]\storage\emulated\0\Documents\robocup\RobocupRatings.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\petov\Downloads\RoboCup2023_obsadenie_kategorii.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\app\src\main\assets\RoboCup2023_obsadenie_kategorii.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\testing_files\obsadenie_kategorii_utf8.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

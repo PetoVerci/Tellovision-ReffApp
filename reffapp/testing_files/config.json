@@ -1,0 +1,41 @@
+{
+  "discipliny": [
+    {
+      "name": "Dron",
+      "description": "Lorem Ipsum",
+      "usedBlocks": [
+        {
+          "type": "trimoznost",
+          "label": "Výrazné vybočenia"
+        },
+        {
+          "type": "plusminus",
+          "label": "360/Nadlet/Podlet"
+        },
+        {
+          "type": "numinput",
+          "label": "Interview"
+        },
+        {
+          "type": "checkbox",
+          "label": "Recording"
+        }
+      ]
+    },
+    {
+      "name": "Ruka",
+      "description": "Lorem ipsum",
+      "usedBlocks": [
+        {
+          "type": "plusminus",
+          "label": "Test Ruky"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

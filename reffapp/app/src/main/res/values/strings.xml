@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ReffApp</string>
+    <string name="stranka_hodnotenia">Stranka Hodnotenia</string>
+    <string name="obrazokrobocup">obrazokrobocup</string>
+    <string name="prida_hodnotenie">Pridať hodnotenie</string>
+    <string name="exportova_do_csv">exportovať do csv</string>
+    <string name="v_ber">výber</string>
+    <string name="vyberte_team_na_hodnotenie">Vyberte team na hodnotenie</string>
+    <string name="vybra_csv_t_mov_a_discipl_n">Vybrať CSV tímov a disciplín</string>
+    <string name="vybra_konfigura_n_s_bor_blokov">Vybrať konfiguračný súbor blokov</string>
+    <string name="vyberte_discipl_nu">Vyberte Disciplínu</string>
+    <string name="vyberdiscip">vyberdiscip</string>
+    <string name="reloadhodnot">reloadhodnot</string>
+    <string name="reloaddiscip">reloaddiscip</string>
+</resources>
