@@ -1,0 +1,17 @@
+Dron rozumie QR kódom vyrobeným následovne :
+
+F = smer vpred
+B = smer vzad
+L = translácia vľavo
+R = translácia vpravo
+U = let nahor
+D = let dolu
+RL = rotácia vľavo
+RR = rotácia vpravo
+LAND = pristátie
+
+
+Príklad sekvencie príkazov pre drona :
+    F 50+R 40+B 20
+Dron bude plniť príkazy poporadí, to znamená že najprv pôjde vpred 50cm, potom doprava o 40 cm a následne dozadu 20cm.
+Je dôležité aby sa syntax dodržiavala, teda smer a požadovaná vzdialenosť boli oddelené medzerou a nasledujúce príkazy oddelené symbolom +.
